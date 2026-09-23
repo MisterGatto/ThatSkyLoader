@@ -1,0 +1,9 @@
+.git
+build
+.vscode
+.cache
+.vs
+out
+CMakeSettings.json
+lib/release/libmem.lib
+lib/debug/libmem.lib
